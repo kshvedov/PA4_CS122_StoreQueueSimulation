@@ -1,0 +1,31 @@
+﻿  functions.c
+c:\users\kaotixs\documents\visual studio 2017\projects\pa4_s2_122\pa4_s2_122\functions.c(22): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\kaotixs\documents\visual studio 2017\projects\pa4_s2_122\pa4_s2_122\functions.c(35): warning C4013: 'gets' undefined; assuming extern returning int
+c:\users\kaotixs\documents\visual studio 2017\projects\pa4_s2_122\pa4_s2_122\functions.c(109): warning C4133: '=': incompatible types - from 'Node *' to 'Node *'
+c:\users\kaotixs\documents\visual studio 2017\projects\pa4_s2_122\pa4_s2_122\functions.c(110): warning C4133: 'function': incompatible types - from 'Node *' to 'Node *'
+c:\users\kaotixs\documents\visual studio 2017\projects\pa4_s2_122\pa4_s2_122\functions.c(147): warning C4133: '=': incompatible types - from 'Node *' to 'Node *'
+c:\users\kaotixs\documents\visual studio 2017\projects\pa4_s2_122\pa4_s2_122\functions.c(148): warning C4133: 'function': incompatible types - from 'Node *' to 'Node *'
+c:\users\kaotixs\documents\visual studio 2017\projects\pa4_s2_122\pa4_s2_122\functions.c(316): warning C4013: 'random' undefined; assuming extern returning int
+c:\users\kaotixs\documents\visual studio 2017\projects\pa4_s2_122\pa4_s2_122\functions.c(291): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\string.h(125): note: see declaration of 'strcpy'
+c:\users\kaotixs\documents\visual studio 2017\projects\pa4_s2_122\pa4_s2_122\functions.c(292): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\string.h(125): note: see declaration of 'strcpy'
+c:\users\kaotixs\documents\visual studio 2017\projects\pa4_s2_122\pa4_s2_122\functions.c(293): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\string.h(125): note: see declaration of 'strcpy'
+c:\users\kaotixs\documents\visual studio 2017\projects\pa4_s2_122\pa4_s2_122\functions.c(294): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\string.h(125): note: see declaration of 'strcpy'
+c:\users\kaotixs\documents\visual studio 2017\projects\pa4_s2_122\pa4_s2_122\functions.c(295): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\string.h(125): note: see declaration of 'strcpy'
+c:\users\kaotixs\documents\visual studio 2017\projects\pa4_s2_122\pa4_s2_122\functions.c(296): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\string.h(125): note: see declaration of 'strcpy'
+c:\users\kaotixs\documents\visual studio 2017\projects\pa4_s2_122\pa4_s2_122\functions.c(297): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\string.h(125): note: see declaration of 'strcpy'
+c:\users\kaotixs\documents\visual studio 2017\projects\pa4_s2_122\pa4_s2_122\functions.c(298): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\string.h(125): note: see declaration of 'strcpy'
+c:\users\kaotixs\documents\visual studio 2017\projects\pa4_s2_122\pa4_s2_122\functions.c(299): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\string.h(125): note: see declaration of 'strcpy'
+c:\users\kaotixs\documents\visual studio 2017\projects\pa4_s2_122\pa4_s2_122\functions.c(395): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\string.h(125): note: see declaration of 'strcpy'
+c:\users\kaotixs\documents\visual studio 2017\projects\pa4_s2_122\pa4_s2_122\functions.c(504): warning C4133: 'function': incompatible types - from 'Node *' to 'Node *'
+c:\users\kaotixs\documents\visual studio 2017\projects\pa4_s2_122\pa4_s2_122\functions.c(512): warning C4133: 'function': incompatible types - from 'Node *' to 'Node *'
+  PA4_S2_122.vcxproj -> C:\Users\Kaotixs\Documents\Visual Studio 2017\Projects\PA4_S2_122\Debug\PA4_S2_122.exe
